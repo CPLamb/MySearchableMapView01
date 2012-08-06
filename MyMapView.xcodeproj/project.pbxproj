@@ -16,6 +16,7 @@
 		83A466FF15D02340008F40E7 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83A466FD15D02340008F40E7 /* MainStoryboard.storyboard */; };
 		83A4670215D02340008F40E7 /* CPLMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 83A4670115D02340008F40E7 /* CPLMasterViewController.m */; };
 		83A4670515D02340008F40E7 /* CPLDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 83A4670415D02340008F40E7 /* CPLDetailViewController.m */; };
+		83A4670C15D02698008F40E7 /* WorldHealthcareCostData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 83A4670B15D02698008F40E7 /* WorldHealthcareCostData.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,17 +24,18 @@
 		83A466EB15D0233F008F40E7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		83A466ED15D0233F008F40E7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		83A466EF15D0233F008F40E7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		83A466F315D0233F008F40E7 /* MyMapView-Info.plist */ = {isa = PBXFileReference; path = "MyMapView-Info.plist"; sourceTree = "<group>"; };
+		83A466F315D0233F008F40E7 /* MyMapView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyMapView-Info.plist"; sourceTree = "<group>"; };
 		83A466F515D0233F008F40E7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		83A466F715D0233F008F40E7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		83A466F915D0233F008F40E7 /* MyMapView-Prefix.pch */ = {isa = PBXFileReference; path = "MyMapView-Prefix.pch"; sourceTree = "<group>"; };
-		83A466FA15D0233F008F40E7 /* CPLAppDelegate.h */ = {isa = PBXFileReference; path = CPLAppDelegate.h; sourceTree = "<group>"; };
+		83A466F915D0233F008F40E7 /* MyMapView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyMapView-Prefix.pch"; sourceTree = "<group>"; };
+		83A466FA15D0233F008F40E7 /* CPLAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CPLAppDelegate.h; sourceTree = "<group>"; };
 		83A466FB15D0233F008F40E7 /* CPLAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CPLAppDelegate.m; sourceTree = "<group>"; };
 		83A466FE15D02340008F40E7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		83A4670015D02340008F40E7 /* CPLMasterViewController.h */ = {isa = PBXFileReference; path = CPLMasterViewController.h; sourceTree = "<group>"; };
+		83A4670015D02340008F40E7 /* CPLMasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CPLMasterViewController.h; sourceTree = "<group>"; };
 		83A4670115D02340008F40E7 /* CPLMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CPLMasterViewController.m; sourceTree = "<group>"; };
-		83A4670315D02340008F40E7 /* CPLDetailViewController.h */ = {isa = PBXFileReference; path = CPLDetailViewController.h; sourceTree = "<group>"; };
+		83A4670315D02340008F40E7 /* CPLDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CPLDetailViewController.h; sourceTree = "<group>"; };
 		83A4670415D02340008F40E7 /* CPLDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CPLDetailViewController.m; sourceTree = "<group>"; };
+		83A4670B15D02698008F40E7 /* WorldHealthcareCostData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = WorldHealthcareCostData.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				83A4670115D02340008F40E7 /* CPLMasterViewController.m */,
 				83A4670315D02340008F40E7 /* CPLDetailViewController.h */,
 				83A4670415D02340008F40E7 /* CPLDetailViewController.m */,
+				83A4670B15D02698008F40E7 /* WorldHealthcareCostData.plist */,
 				83A466F215D0233F008F40E7 /* Supporting Files */,
 			);
 			path = MyMapView;
@@ -157,6 +160,7 @@
 			files = (
 				83A466F615D0233F008F40E7 /* InfoPlist.strings in Resources */,
 				83A466FF15D02340008F40E7 /* MainStoryboard.storyboard in Resources */,
+				83A4670C15D02698008F40E7 /* WorldHealthcareCostData.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
