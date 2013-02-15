@@ -1,0 +1,4 @@
+MySearchableMapView
+===================
+
+read the name
