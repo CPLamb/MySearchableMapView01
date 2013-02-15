@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>United States</key>
+	<array>
+		<real>39</real>
+		<real>-97</real>
+		<integer>7210</integer>
+		<integer>48400</integer>
+	</array>
+	<key>Germany</key>
+	<array>
+		<real>51.3</real>
+		<real>9.9</real>
+		<integer>3922</integer>
+		<integer>44500</integer>
+	</array>
+	<key>Sweden</key>
+	<array>
+		<real>63</real>
+		<real>15.6</real>
+		<integer>3622</integer>
+		<integer>62900</integer>
+	</array>
+	<key>France</key>
+	<array>
+		<real>46.2</real>
+		<real>2.6</real>
+		<integer>3851</integer>
+		<integer>43100</integer>
+	</array>
+	<key>Austria</key>
+	<array>
+		<real>47.7</real>
+		<real>14.6</real>
+		<integer>4150</integer>
+		<integer>51700</integer>
+	</array>
+	<key>Switzerland</key>
+	<array>
+		<real>46.8</real>
+		<real>8.1</real>
+		<integer>4814</integer>
+		<integer>87800</integer>
+	</array>
+	<key>Denmark</key>
+	<array>
+		<integer>56</integer>
+		<real>9.9</real>
+		<integer>3814</integer>
+		<integer>59800</integer>
+	</array>
+	<key>Netherlands</key>
+	<array>
+		<real>51.9</real>
+		<real>8.300000000000001</real>
+		<integer>4283</integer>
+		<integer>51500</integer>
+	</array>
+</dict>
+</plist>

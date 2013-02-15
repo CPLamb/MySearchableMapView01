@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Country</key>
+		<string>Afghanistan </string>
+		<key>Geographic coordinates </key>
+		<string>33 00 N, 65 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Akrotiri </string>
+		<key>Geographic coordinates </key>
+		<string>34 37 N, 32 58 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Albania </string>
+		<key>Geographic coordinates </key>
+		<string>41 00 N, 20 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Algeria </string>
+		<key>Geographic coordinates </key>
+		<string>28 00 N, 3 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>American Samoa </string>
+		<key>Geographic coordinates </key>
+		<string>14 20 S, 170 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Andorra </string>
+		<key>Geographic coordinates </key>
+		<string>42 30 N, 1 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Angola </string>
+		<key>Geographic coordinates </key>
+		<string>12 30 S, 18 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Anguilla </string>
+		<key>Geographic coordinates </key>
+		<string>18 15 N, 63 10 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Antarctica </string>
+		<key>Geographic coordinates </key>
+		<string>90 00 S, 0 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Antigua and Barbuda </string>
+		<key>Geographic coordinates </key>
+		<string>17 03 N, 61 48 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Arctic Ocean </string>
+		<key>Geographic coordinates </key>
+		<string>90 00 N, 0 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Argentina </string>
+		<key>Geographic coordinates </key>
+		<string>34 00 S, 64 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Armenia </string>
+		<key>Geographic coordinates </key>
+		<string>40 00 N, 45 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Aruba </string>
+		<key>Geographic coordinates </key>
+		<string>12 30 N, 69 58 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Ashmore and Cartier Islands </string>
+		<key>Geographic coordinates </key>
+		<string>12 14 S, 123 05 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Atlantic Ocean </string>
+		<key>Geographic coordinates </key>
+		<string>0 00 N, 25 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Australia </string>
+		<key>Geographic coordinates </key>
+		<string>27 00 S, 133 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Austria </string>
+		<key>Geographic coordinates </key>
+		<string>47 20 N, 13 20 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Azerbaijan </string>
+		<key>Geographic coordinates </key>
+		<string>40 30 N, 47 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Bahamas, The </string>
+		<key>Geographic coordinates </key>
+		<string>24 15 N, 76 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Bahrain </string>
+		<key>Geographic coordinates </key>
+		<string>26 00 N, 50 33 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Bangladesh </string>
+		<key>Geographic coordinates </key>
+		<string>24 00 N, 90 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Barbados </string>
+		<key>Geographic coordinates </key>
+		<string>13 10 N, 59 32 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Belarus </string>
+		<key>Geographic coordinates </key>
+		<string>53 00 N, 28 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Belgium </string>
+		<key>Geographic coordinates </key>
+		<string>50 50 N, 4 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Belize </string>
+		<key>Geographic coordinates </key>
+		<string>17 15 N, 88 45 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Benin </string>
+		<key>Geographic coordinates </key>
+		<string>9 30 N, 2 15 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Bermuda </string>
+		<key>Geographic coordinates </key>
+		<string>32 20 N, 64 45 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Bhutan </string>
+		<key>Geographic coordinates </key>
+		<string>27 30 N, 90 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Bolivia </string>
+		<key>Geographic coordinates </key>
+		<string>17 00 S, 65 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Bosnia and Herzegovina </string>
+		<key>Geographic coordinates </key>
+		<string>44 00 N, 18 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Botswana </string>
+		<key>Geographic coordinates </key>
+		<string>22 00 S, 24 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Bouvet Island </string>
+		<key>Geographic coordinates </key>
+		<string>54 26 S, 3 24 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Brazil </string>
+		<key>Geographic coordinates </key>
+		<string>10 00 S, 55 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>British Indian Ocean Territory </string>
+		<key>Geographic coordinates </key>
+		<string>6 00 S, 71 30 E</string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>British Virgin Islands </string>
+		<key>Geographic coordinates </key>
+		<string>18 30 N, 64 30 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Brunei </string>
+		<key>Geographic coordinates </key>
+		<string>4 30 N, 114 40 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Bulgaria </string>
+		<key>Geographic coordinates </key>
+		<string>43 00 N, 25 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Burkina Faso </string>
+		<key>Geographic coordinates </key>
+		<string>13 00 N, 2 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Burma </string>
+		<key>Geographic coordinates </key>
+		<string>22 00 N, 98 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Burundi </string>
+		<key>Geographic coordinates </key>
+		<string>3 30 S, 30 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Cambodia </string>
+		<key>Geographic coordinates </key>
+		<string>13 00 N, 105 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Cameroon </string>
+		<key>Geographic coordinates </key>
+		<string>6 00 N, 12 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Canada </string>
+		<key>Geographic coordinates </key>
+		<string>60 00 N, 95 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Cape Verde </string>
+		<key>Geographic coordinates </key>
+		<string>16 00 N, 24 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Cayman Islands </string>
+		<key>Geographic coordinates </key>
+		<string>19 30 N, 80 30 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Central African Republic </string>
+		<key>Geographic coordinates </key>
+		<string>7 00 N, 21 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Chad </string>
+		<key>Geographic coordinates </key>
+		<string>15 00 N, 19 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Chile </string>
+		<key>Geographic coordinates </key>
+		<string>30 00 S, 71 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>China </string>
+		<key>Geographic coordinates </key>
+		<string>35 00 N, 105 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Christmas Island </string>
+		<key>Geographic coordinates </key>
+		<string>10 30 S, 105 40 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Clipperton Island </string>
+		<key>Geographic coordinates </key>
+		<string>10 17 N, 109 13 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Cocos (Keeling) Islands </string>
+		<key>Geographic coordinates </key>
+		<string>12 30 S, 96 50 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Colombia </string>
+		<key>Geographic coordinates </key>
+		<string>4 00 N, 72 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Comoros </string>
+		<key>Geographic coordinates </key>
+		<string>12 10 S, 44 15 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Congo, Democratic Republic of the </string>
+		<key>Geographic coordinates </key>
+		<string>0 00 N, 25 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Congo, Republic of the </string>
+		<key>Geographic coordinates </key>
+		<string>1 00 S, 15 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Cook Islands </string>
+		<key>Geographic coordinates </key>
+		<string>21 14 S, 159 46 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Coral Sea Islands </string>
+		<key>Geographic coordinates </key>
+		<string>18 00 S, 152 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Costa Rica </string>
+		<key>Geographic coordinates </key>
+		<string>10 00 N, 84 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Cote d'Ivoire </string>
+		<key>Geographic coordinates </key>
+		<string>8 00 N, 5 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Croatia </string>
+		<key>Geographic coordinates </key>
+		<string>45 10 N, 15 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Cuba </string>
+		<key>Geographic coordinates </key>
+		<string>21 30 N, 80 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Curacao </string>
+		<key>Geographic coordinates </key>
+		<string>12 10 N, 69 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Cyprus </string>
+		<key>Geographic coordinates </key>
+		<string>35 00 N, 33 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Czech Republic </string>
+		<key>Geographic coordinates </key>
+		<string>49 45 N, 15 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Denmark </string>
+		<key>Geographic coordinates </key>
+		<string>56 00 N, 10 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Dhekelia </string>
+		<key>Geographic coordinates </key>
+		<string>34 59 N, 33 45 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Djibouti </string>
+		<key>Geographic coordinates </key>
+		<string>11 30 N, 43 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Dominica </string>
+		<key>Geographic coordinates </key>
+		<string>15 25 N, 61 20 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Dominican Republic </string>
+		<key>Geographic coordinates </key>
+		<string>19 00 N, 70 40 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Ecuador </string>
+		<key>Geographic coordinates </key>
+		<string>2 00 S, 77 30 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Egypt </string>
+		<key>Geographic coordinates </key>
+		<string>27 00 N, 30 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>El Salvador </string>
+		<key>Geographic coordinates </key>
+		<string>13 50 N, 88 55 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Equatorial Guinea </string>
+		<key>Geographic coordinates </key>
+		<string>2 00 N, 10 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Eritrea </string>
+		<key>Geographic coordinates </key>
+		<string>15 00 N, 39 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Estonia </string>
+		<key>Geographic coordinates </key>
+		<string>59 00 N, 26 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Ethiopia </string>
+		<key>Geographic coordinates </key>
+		<string>8 00 N, 38 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Falkland Islands (Islas Malvinas) </string>
+		<key>Geographic coordinates </key>
+		<string>51 45 S, 59 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Faroe Islands </string>
+		<key>Geographic coordinates </key>
+		<string>62 00 N, 7 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Fiji </string>
+		<key>Geographic coordinates </key>
+		<string>18 00 S, 175 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Finland </string>
+		<key>Geographic coordinates </key>
+		<string>64 00 N, 26 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>France </string>
+		<key>Geographic coordinates </key>
+		<string>46 00 N, 2 00 E</string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>French Polynesia </string>
+		<key>Geographic coordinates </key>
+		<string>15 00 S, 140 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>French Southern and Antarctic Lands </string>
+		<key>Geographic coordinates </key>
+		<string>37 50 S, 77 32 E</string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Gabon </string>
+		<key>Geographic coordinates </key>
+		<string>1 00 S, 11 45 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Gambia, The </string>
+		<key>Geographic coordinates </key>
+		<string>13 28 N, 16 34 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Gaza Strip </string>
+		<key>Geographic coordinates </key>
+		<string>31 25 N, 34 20 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Georgia </string>
+		<key>Geographic coordinates </key>
+		<string>42 00 N, 43 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Germany </string>
+		<key>Geographic coordinates </key>
+		<string>51 00 N, 9 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Ghana </string>
+		<key>Geographic coordinates </key>
+		<string>8 00 N, 2 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Gibraltar </string>
+		<key>Geographic coordinates </key>
+		<string>36 08 N, 5 21 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Greece </string>
+		<key>Geographic coordinates </key>
+		<string>39 00 N, 22 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Greenland </string>
+		<key>Geographic coordinates </key>
+		<string>72 00 N, 40 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Grenada </string>
+		<key>Geographic coordinates </key>
+		<string>12 07 N, 61 40 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Guam </string>
+		<key>Geographic coordinates </key>
+		<string>13 28 N, 144 47 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Guatemala </string>
+		<key>Geographic coordinates </key>
+		<string>15 30 N, 90 15 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Guernsey </string>
+		<key>Geographic coordinates </key>
+		<string>49 28 N, 2 35 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Guinea </string>
+		<key>Geographic coordinates </key>
+		<string>11 00 N, 10 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Guinea-Bissau </string>
+		<key>Geographic coordinates </key>
+		<string>12 00 N, 15 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Guyana </string>
+		<key>Geographic coordinates </key>
+		<string>5 00 N, 59 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Haiti </string>
+		<key>Geographic coordinates </key>
+		<string>19 00 N, 72 25 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Heard Island and McDonald Islands </string>
+		<key>Geographic coordinates </key>
+		<string>53 06 S, 72 31 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Holy See (Vatican City) </string>
+		<key>Geographic coordinates </key>
+		<string>41 54 N, 12 27 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Honduras </string>
+		<key>Geographic coordinates </key>
+		<string>15 00 N, 86 30 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Hong Kong </string>
+		<key>Geographic coordinates </key>
+		<string>22 15 N, 114 10 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Howland Island </string>
+		<key>Geographic coordinates </key>
+		<string>0 48 N, 176 38 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Hungary </string>
+		<key>Geographic coordinates </key>
+		<string>47 00 N, 20 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Iceland </string>
+		<key>Geographic coordinates </key>
+		<string>65 00 N, 18 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>India </string>
+		<key>Geographic coordinates </key>
+		<string>20 00 N, 77 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Indian Ocean </string>
+		<key>Geographic coordinates </key>
+		<string>20 00 S, 80 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Indonesia </string>
+		<key>Geographic coordinates </key>
+		<string>5 00 S, 120 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Iran </string>
+		<key>Geographic coordinates </key>
+		<string>32 00 N, 53 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Iraq </string>
+		<key>Geographic coordinates </key>
+		<string>33 00 N, 44 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Ireland </string>
+		<key>Geographic coordinates </key>
+		<string>53 00 N, 8 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Isle of Man </string>
+		<key>Geographic coordinates </key>
+		<string>54 15 N, 4 30 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Israel </string>
+		<key>Geographic coordinates </key>
+		<string>31 30 N, 34 45 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Italy </string>
+		<key>Geographic coordinates </key>
+		<string>42 50 N, 12 50 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Jamaica </string>
+		<key>Geographic coordinates </key>
+		<string>18 15 N, 77 30 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Jan Mayen </string>
+		<key>Geographic coordinates </key>
+		<string>71 00 N, 8 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Japan </string>
+		<key>Geographic coordinates </key>
+		<string>36 00 N, 138 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Jarvis Island </string>
+		<key>Geographic coordinates </key>
+		<string>0 22 S, 160 01 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Jersey </string>
+		<key>Geographic coordinates </key>
+		<string>49 15 N, 2 10 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Johnston Atoll </string>
+		<key>Geographic coordinates </key>
+		<string>16 45 N, 169 31 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Jordan </string>
+		<key>Geographic coordinates </key>
+		<string>31 00 N, 36 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Kazakhstan </string>
+		<key>Geographic coordinates </key>
+		<string>48 00 N, 68 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Kenya </string>
+		<key>Geographic coordinates </key>
+		<string>1 00 N, 38 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Kingman Reef </string>
+		<key>Geographic coordinates </key>
+		<string>6 24 N, 162 22 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Kiribati </string>
+		<key>Geographic coordinates </key>
+		<string>1 25 N, 173 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Korea, North </string>
+		<key>Geographic coordinates </key>
+		<string>40 00 N, 127 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Korea, South </string>
+		<key>Geographic coordinates </key>
+		<string>37 00 N, 127 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Kosovo </string>
+		<key>Geographic coordinates </key>
+		<string>42 35 N, 21 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Kuwait </string>
+		<key>Geographic coordinates </key>
+		<string>29 30 N, 45 45 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Kyrgyzstan </string>
+		<key>Geographic coordinates </key>
+		<string>41 00 N, 75 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Laos </string>
+		<key>Geographic coordinates </key>
+		<string>18 00 N, 105 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Latvia </string>
+		<key>Geographic coordinates </key>
+		<string>57 00 N, 25 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Lebanon </string>
+		<key>Geographic coordinates </key>
+		<string>33 50 N, 35 50 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Lesotho </string>
+		<key>Geographic coordinates </key>
+		<string>29 30 S, 28 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Liberia </string>
+		<key>Geographic coordinates </key>
+		<string>6 30 N, 9 30 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Libya </string>
+		<key>Geographic coordinates </key>
+		<string>25 00 N, 17 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Liechtenstein </string>
+		<key>Geographic coordinates </key>
+		<string>47 16 N, 9 32 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Lithuania </string>
+		<key>Geographic coordinates </key>
+		<string>56 00 N, 24 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Luxembourg </string>
+		<key>Geographic coordinates </key>
+		<string>49 45 N, 6 10 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Macau </string>
+		<key>Geographic coordinates </key>
+		<string>22 10 N, 113 33 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Macedonia </string>
+		<key>Geographic coordinates </key>
+		<string>41 50 N, 22 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Madagascar </string>
+		<key>Geographic coordinates </key>
+		<string>20 00 S, 47 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Malawi </string>
+		<key>Geographic coordinates </key>
+		<string>13 30 S, 34 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Malaysia </string>
+		<key>Geographic coordinates </key>
+		<string>2 30 N, 112 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Maldives </string>
+		<key>Geographic coordinates </key>
+		<string>3 15 N, 73 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Mali </string>
+		<key>Geographic coordinates </key>
+		<string>17 00 N, 4 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Malta </string>
+		<key>Geographic coordinates </key>
+		<string>35 50 N, 14 35 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Marshall Islands </string>
+		<key>Geographic coordinates </key>
+		<string>9 00 N, 168 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Mauritania </string>
+		<key>Geographic coordinates </key>
+		<string>20 00 N, 12 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Mauritius </string>
+		<key>Geographic coordinates </key>
+		<string>20 17 S, 57 33 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Mexico </string>
+		<key>Geographic coordinates </key>
+		<string>23 00 N, 102 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Micronesia, Federated States of </string>
+		<key>Geographic coordinates </key>
+		<string>6 55 N, 158 15 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Midway Islands </string>
+		<key>Geographic coordinates </key>
+		<string>28 12 N, 177 22 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Moldova </string>
+		<key>Geographic coordinates </key>
+		<string>47 00 N, 29 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Monaco </string>
+		<key>Geographic coordinates </key>
+		<string>43 44 N, 7 24 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Mongolia </string>
+		<key>Geographic coordinates </key>
+		<string>46 00 N, 105 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Montenegro </string>
+		<key>Geographic coordinates </key>
+		<string>42 30 N, 19 18 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Montserrat </string>
+		<key>Geographic coordinates </key>
+		<string>16 45 N, 62 12 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Morocco </string>
+		<key>Geographic coordinates </key>
+		<string>32 00 N, 5 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Mozambique </string>
+		<key>Geographic coordinates </key>
+		<string>18 15 S, 35 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Namibia </string>
+		<key>Geographic coordinates </key>
+		<string>22 00 S, 17 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Nauru </string>
+		<key>Geographic coordinates </key>
+		<string>0 32 S, 166 55 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Navassa Island </string>
+		<key>Geographic coordinates </key>
+		<string>18 25 N, 75 02 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Nepal </string>
+		<key>Geographic coordinates </key>
+		<string>28 00 N, 84 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Netherlands </string>
+		<key>Geographic coordinates </key>
+		<string>52 30 N, 5 45 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>New Caledonia </string>
+		<key>Geographic coordinates </key>
+		<string>21 30 S, 165 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>New Zealand </string>
+		<key>Geographic coordinates </key>
+		<string>41 00 S, 174 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Nicaragua </string>
+		<key>Geographic coordinates </key>
+		<string>13 00 N, 85 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Niger </string>
+		<key>Geographic coordinates </key>
+		<string>16 00 N, 8 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Nigeria </string>
+		<key>Geographic coordinates </key>
+		<string>10 00 N, 8 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Niue </string>
+		<key>Geographic coordinates </key>
+		<string>19 02 S, 169 52 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Norfolk Island </string>
+		<key>Geographic coordinates </key>
+		<string>29 02 S, 167 57 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Northern Mariana Islands </string>
+		<key>Geographic coordinates </key>
+		<string>15 12 N, 145 45 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Norway </string>
+		<key>Geographic coordinates </key>
+		<string>62 00 N, 10 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Oman </string>
+		<key>Geographic coordinates </key>
+		<string>21 00 N, 57 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Pacific Ocean </string>
+		<key>Geographic coordinates </key>
+		<string>0 00 N, 160 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Pakistan </string>
+		<key>Geographic coordinates </key>
+		<string>30 00 N, 70 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Palau </string>
+		<key>Geographic coordinates </key>
+		<string>7 30 N, 134 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Palmyra Atoll </string>
+		<key>Geographic coordinates </key>
+		<string>5 52 N, 162 04 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Panama </string>
+		<key>Geographic coordinates </key>
+		<string>9 00 N, 80 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Papua New Guinea </string>
+		<key>Geographic coordinates </key>
+		<string>6 00 S, 147 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Paracel Islands </string>
+		<key>Geographic coordinates </key>
+		<string>16 30 N, 112 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Paraguay </string>
+		<key>Geographic coordinates </key>
+		<string>23 00 S, 58 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Peru </string>
+		<key>Geographic coordinates </key>
+		<string>10 00 S, 76 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Philippines </string>
+		<key>Geographic coordinates </key>
+		<string>13 00 N, 122 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Pitcairn Islands </string>
+		<key>Geographic coordinates </key>
+		<string>25 04 S, 130 06 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Poland </string>
+		<key>Geographic coordinates </key>
+		<string>52 00 N, 20 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Portugal </string>
+		<key>Geographic coordinates </key>
+		<string>39 30 N, 8 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Puerto Rico </string>
+		<key>Geographic coordinates </key>
+		<string>18 15 N, 66 30 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Qatar </string>
+		<key>Geographic coordinates </key>
+		<string>25 30 N, 51 15 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Romania </string>
+		<key>Geographic coordinates </key>
+		<string>46 00 N, 25 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Russia </string>
+		<key>Geographic coordinates </key>
+		<string>60 00 N, 100 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Rwanda </string>
+		<key>Geographic coordinates </key>
+		<string>2 00 S, 30 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Saint Barthelemy </string>
+		<key>Geographic coordinates </key>
+		<string>17 90 N, 62 85 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Saint Helena, Ascension, and Tristan da Cunha </string>
+		<key>Geographic coordinates </key>
+		<string>15 57 S, 5 42 W</string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Saint Lucia </string>
+		<key>Geographic coordinates </key>
+		<string>13 53 N, 60 58 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Saint Martin </string>
+		<key>Geographic coordinates </key>
+		<string>18 05 N, 63 57 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Saint Pierre and Miquelon </string>
+		<key>Geographic coordinates </key>
+		<string>46 50 N, 56 20 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Saint Vincent and the Grenadines </string>
+		<key>Geographic coordinates </key>
+		<string>13 15 N, 61 12 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Samoa </string>
+		<key>Geographic coordinates </key>
+		<string>13 35 S, 172 20 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>San Marino </string>
+		<key>Geographic coordinates </key>
+		<string>43 46 N, 12 25 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Sao Tome and Principe </string>
+		<key>Geographic coordinates </key>
+		<string>1 00 N, 7 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Saudi Arabia </string>
+		<key>Geographic coordinates </key>
+		<string>25 00 N, 45 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Senegal </string>
+		<key>Geographic coordinates </key>
+		<string>14 00 N, 14 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Serbia </string>
+		<key>Geographic coordinates </key>
+		<string>44 00 N, 21 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Seychelles </string>
+		<key>Geographic coordinates </key>
+		<string>4 35 S, 55 40 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Sierra Leone </string>
+		<key>Geographic coordinates </key>
+		<string>8 30 N, 11 30 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Singapore </string>
+		<key>Geographic coordinates </key>
+		<string>1 22 N, 103 48 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Sint Maarten </string>
+		<key>Geographic coordinates </key>
+		<string>18 4 N, 63 4 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Slovakia </string>
+		<key>Geographic coordinates </key>
+		<string>48 40 N, 19 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Slovenia </string>
+		<key>Geographic coordinates </key>
+		<string>46 07 N, 14 49 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Solomon Islands </string>
+		<key>Geographic coordinates </key>
+		<string>8 00 S, 159 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Somalia </string>
+		<key>Geographic coordinates </key>
+		<string>10 00 N, 49 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>South Africa </string>
+		<key>Geographic coordinates </key>
+		<string>29 00 S, 24 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>South Georgia and South Sandwich Islands </string>
+		<key>Geographic coordinates </key>
+		<string>54 30 S, 37 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>South Sudan </string>
+		<key>Geographic coordinates </key>
+		<string>8 00 N, 30 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Southern Ocean </string>
+		<key>Geographic coordinates </key>
+		<string>60 00 S, 90 00 E</string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Spain </string>
+		<key>Geographic coordinates </key>
+		<string>40 00 N, 4 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Spratly Islands </string>
+		<key>Geographic coordinates </key>
+		<string>8 38 N, 111 55 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Sri Lanka </string>
+		<key>Geographic coordinates </key>
+		<string>7 00 N, 81 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Sudan </string>
+		<key>Geographic coordinates </key>
+		<string>15 00 N, 30 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Suriname </string>
+		<key>Geographic coordinates </key>
+		<string>4 00 N, 56 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Svalbard </string>
+		<key>Geographic coordinates </key>
+		<string>78 00 N, 20 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Swaziland </string>
+		<key>Geographic coordinates </key>
+		<string>26 30 S, 31 30 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Sweden </string>
+		<key>Geographic coordinates </key>
+		<string>62 00 N, 15 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Switzerland </string>
+		<key>Geographic coordinates </key>
+		<string>47 00 N, 8 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Syria </string>
+		<key>Geographic coordinates </key>
+		<string>35 00 N, 38 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Taiwan </string>
+		<key>Geographic coordinates </key>
+		<string>23 30 N, 121 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Tajikistan </string>
+		<key>Geographic coordinates </key>
+		<string>39 00 N, 71 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Tanzania </string>
+		<key>Geographic coordinates </key>
+		<string>6 00 S, 35 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Thailand </string>
+		<key>Geographic coordinates </key>
+		<string>15 00 N, 100 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Timor-Leste </string>
+		<key>Geographic coordinates </key>
+		<string>8 50 S, 125 55 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Togo </string>
+		<key>Geographic coordinates </key>
+		<string>8 00 N, 1 10 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Tokelau </string>
+		<key>Geographic coordinates </key>
+		<string>9 00 S, 172 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Tonga </string>
+		<key>Geographic coordinates </key>
+		<string>20 00 S, 175 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Trinidad and Tobago </string>
+		<key>Geographic coordinates </key>
+		<string>11 00 N, 61 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Tunisia </string>
+		<key>Geographic coordinates </key>
+		<string>34 00 N, 9 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Turkey </string>
+		<key>Geographic coordinates </key>
+		<string>39 00 N, 35 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Turkmenistan </string>
+		<key>Geographic coordinates </key>
+		<string>40 00 N, 60 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Turks and Caicos Islands </string>
+		<key>Geographic coordinates </key>
+		<string>21 45 N, 71 35 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Tuvalu </string>
+		<key>Geographic coordinates </key>
+		<string>8 00 S, 178 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Uganda </string>
+		<key>Geographic coordinates </key>
+		<string>1 00 N, 32 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Ukraine </string>
+		<key>Geographic coordinates </key>
+		<string>49 00 N, 32 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>United Arab Emirates </string>
+		<key>Geographic coordinates </key>
+		<string>24 00 N, 54 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>United Kingdom </string>
+		<key>Geographic coordinates </key>
+		<string>54 00 N, 2 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>United States </string>
+		<key>Geographic coordinates </key>
+		<string>38 00 N, 97 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>United States Pacific Island Wildlife Refuges </string>
+		<key>Geographic coordinates </key>
+		<string>13 00 N, 176 28 W</string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Uruguay </string>
+		<key>Geographic coordinates </key>
+		<string>33 00 S, 56 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Uzbekistan </string>
+		<key>Geographic coordinates </key>
+		<string>41 00 N, 64 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Vanuatu </string>
+		<key>Geographic coordinates </key>
+		<string>16 00 S, 167 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Venezuela </string>
+		<key>Geographic coordinates </key>
+		<string>8 00 N, 66 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Vietnam </string>
+		<key>Geographic coordinates </key>
+		<string>16 10 N, 107 50 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Virgin Islands </string>
+		<key>Geographic coordinates </key>
+		<string>18 20 N, 64 50 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Wake Island </string>
+		<key>Geographic coordinates </key>
+		<string>19 17 N, 166 39 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Wallis and Futuna </string>
+		<key>Geographic coordinates </key>
+		<string>13 18 S, 176 12 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>West Bank </string>
+		<key>Geographic coordinates </key>
+		<string>32 00 N, 35 15 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Western Sahara </string>
+		<key>Geographic coordinates </key>
+		<string>24 30 N, 13 00 W </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Yemen </string>
+		<key>Geographic coordinates </key>
+		<string>15 00 N, 48 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Zambia </string>
+		<key>Geographic coordinates </key>
+		<string>15 00 S, 30 00 E </string>
+	</dict>
+	<dict>
+		<key>Country</key>
+		<string>Zimbabwe </string>
+		<key>Geographic coordinates </key>
+		<string>20 00 S, 30 00 E </string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string>Wino</string>
+		<key>Description</key>
+		<string>Engineering and iPhone/iPad programming</string>
+		<key>Latitude</key>
+		<string>36.9681</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-121.9987</string>
+		<key>Name</key>
+		<string>ChrisPLamb Labs</string>
+		<key>Phone</key>
+		<string>831-234-9927</string>
+		<key>Website</key>
+		<string>http://cplamb.blogspot.com/</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string>Retail</string>
+		<key>Description</key>
+		<string>We feature high-quality, non-toxic adult toys, and offer an ongoing sex-education program to enhance sexual pleasure and well-being.  Pure Pleasure aims to promote sexual diversity, offering something for &quot;The Pleasure Inside Us All&quot;. </string>
+		<key>Latitude</key>
+		<string>36.9560</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-121.9650</string>
+		<key>Name</key>
+		<string>Pure Pleasure</string>
+		<key>Phone</key>
+		<string>831-466-9870</string>
+		<key>Website</key>
+		<string>http://www.purepleasureshop.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string>Nursery</string>
+		<key>Description</key>
+		<string>We supply and deliver Landscape, garden and building supplies to all of Santa Cruz County.</string>
+		<key>Latitude</key>
+		<string>36.9876</string>
+		<key>Location</key>
+		<string>Aptos / La Selva</string>
+		<key>Longitude</key>
+		<string>-121.8638</string>
+		<key>Name</key>
+		<string>Aptos Landscape Supply</string>
+		<key>Phone</key>
+		<string>831 688 6211</string>
+		<key>Website</key>
+		<string>http://aptoslandscapesupply.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>B&amp;B Small Engine Repair has been selling and servicing outdoor power equipment since 1993. Stocking a full line of Stihl, Honda and Husqvarna equipment plus a wide selection of hand tools and safety gear for local residential and commercial users.</string>
+		<key>Latitude</key>
+		<string>36.9880</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-121.9810</string>
+		<key>Name</key>
+		<string>B &amp; B SMALL ENGINE REPAIR</string>
+		<key>Phone</key>
+		<string>831-476-6306</string>
+		<key>Website</key>
+		<string>www.bandbsmallenginerepair.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string>Nursery</string>
+		<key>Description</key>
+		<string>Bamboo Hedge Specialists.  Delivery and installations through out California. We also have Bamboo Products and supplies. 20 acres of beautiful Bamboo forest.  Come take a walk and have a picnic among the Bamboo. Open 7 days the week from 10-4.</string>
+		<key>Latitude</key>
+		<string>36.9862</string>
+		<key>Location</key>
+		<string>Aptos / La Selva</string>
+		<key>Longitude</key>
+		<string>-121.8487</string>
+		<key>Name</key>
+		<string>Bamboo Giant Nursery</string>
+		<key>Phone</key>
+		<string>831-216-3300</string>
+		<key>Website</key>
+		<string>www.bamboogiant.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>Compare our locally made mattresses to any national brand - we build a better mattress for a lower price.</string>
+		<key>Latitude</key>
+		<string>36.9811</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-122.0068</string>
+		<key>Name</key>
+		<string>Bay Bed &amp; Mattress</string>
+		<key>Phone</key>
+		<string>831-457-1201</string>
+		<key>Website</key>
+		<string>www.baybed.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>Established in 1987, Bay Plumbing Supply is a family owned and operated plumbing supply wholesaler with a 2400 sq ft decorative plumbing showroom.  Our showroom is packed with hundreds of the latest styles in eco-friendly Kitchen and Bath fixtures.</string>
+		<key>Latitude</key>
+		<string>36.9855</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-121.9883</string>
+		<key>Name</key>
+		<string>Bay Plumbing Supply &amp; Showroom, inc.</string>
+		<key>Phone</key>
+		<string>831-475-2900</string>
+		<key>Website</key>
+		<string>www.bayplumbingsupply.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>All phases of Residential and Commercial Interior Design.  Bettencourt Interiors is your resource for furnishings, flooring, custom window treatments and upholstery including shades, blinds and shutters.</string>
+		<key>Latitude</key>
+		<string>36.9759</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-122.0169</string>
+		<key>Name</key>
+		<string>Bettencourt Interiors</string>
+		<key>Phone</key>
+		<string>831-464-7306</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>Durable repairs of bathtubs, sinks, countertops, vinyl window frames, etc.  Acrylic, fiberglass, cultured marble, terrazzo, cast iron, porcelain and more.  Residential and commercial. Serving local contractors and property owners since 1996.</string>
+		<key>Latitude</key>
+		<string>37.0059</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-121.9690</string>
+		<key>Name</key>
+		<string>Monterey Bay Refinishing, Inc.</string>
+		<key>Phone</key>
+		<string>(831) 471-9816</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string>Nursery</string>
+		<key>Description</key>
+		<string>As a native plant nursery in Aptos, we are dedicated to the flora and fauna of our state. We offer both plants and information to allow individuals to create hardy, drought tolerant gardens which are both beautiful and require little maintenance.</string>
+		<key>Latitude</key>
+		<string>36.9817</string>
+		<key>Location</key>
+		<string>Aptos / La Selva</string>
+		<key>Longitude</key>
+		<string>-121.9162</string>
+		<key>Name</key>
+		<string>Native Revival Nursery</string>
+		<key>Phone</key>
+		<string>831-684-1811</string>
+		<key>Website</key>
+		<string>www.nativerevival.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string>Nursery</string>
+		<key>Description</key>
+		<string>Specializes in deer drought and frost tolerant native plants including groundcovers. We offer full landscape design and installation.</string>
+		<key>Latitude</key>
+		<string>36.9802</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-121.9747</string>
+		<key>Name</key>
+		<string>New Garden Nursery &amp; Landscaping</string>
+		<key>Phone</key>
+		<string>831-462-1610</string>
+		<key>Website</key>
+		<string>www.newgardenlandscaping.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>Olive Springs Quarry mines decomposed granite and produces base rock  drain rock gabion and sand.  We also have an asphalt plant and can supply you with both hot and cold asphalt.</string>
+		<key>Latitude</key>
+		<string>37.0538</string>
+		<key>Location</key>
+		<string>Soquel </string>
+		<key>Longitude</key>
+		<string>-121.9251</string>
+		<key>Name</key>
+		<string>Olive Springs Quarry  Inc.</string>
+		<key>Phone</key>
+		<string>831-475-1610</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>Specialty Gift and Home Store</string>
+		<key>Latitude</key>
+		<string>36.9798</string>
+		<key>Location</key>
+		<string>Aptos / La Selva</string>
+		<key>Longitude</key>
+		<string>-121.9091</string>
+		<key>Name</key>
+		<string>Outside-In &amp; Outside-In Kids</string>
+		<key>Phone</key>
+		<string>(831) 684-0186</string>
+		<key>Website</key>
+		<string>www.oihome.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>Palace Office Interiors designs, sells &amp; installs office furniture to businesses, schools &amp; non-profits in Santa Cruz County &amp; neighboring counties. From complete workstations to a simple file cabinet, Palace is your best bet on the Central Coast.</string>
+		<key>Latitude</key>
+		<string>36.9854</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-121.9781</string>
+		<key>Name</key>
+		<string>Palace Office Interiors</string>
+		<key>Phone</key>
+		<string>831-476-3815</string>
+		<key>Website</key>
+		<string>www.gopalace.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>Our farm provides a continuous supply of clean  fresh seawater to the abalone that are grown inside tanks with various types of local seaweeds. The farm is open for direct sales to the public every Saturday from 10 AM to 2 PM.</string>
+		<key>Latitude</key>
+		<string>37.0238</string>
+		<key>Location</key>
+		<string>North Coast</string>
+		<key>Longitude</key>
+		<string>-122.2140</string>
+		<key>Name</key>
+		<string>American Abalone Farms</string>
+		<key>Phone</key>
+		<string>831-457-2794</string>
+		<key>Website</key>
+		<string>www.AmericanAbalone.net</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string></string>
+		<key>Latitude</key>
+		<string>37.0056</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-121.9450</string>
+		<key>Name</key>
+		<string>Staff of Life</string>
+		<key>Phone</key>
+		<string>(831) 423-8632</string>
+		<key>Website</key>
+		<string>www.staffoflifemarket.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>Darrell and Karen Osborn are the owners of the Summit Store for the past 34 years. We serve the summit area of Santa Cruz and Santa Clara County . Our store has been in this location for over 65 years. </string>
+		<key>Latitude</key>
+		<string>37.1202</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-121.9287</string>
+		<key>Name</key>
+		<string>Summit Store </string>
+		<key>Phone</key>
+		<string>831-234-7981</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>SunRidge Farms is a name that has become synonymous with natural bulk trail mixes, dried fruits, confections &amp; snack blends. SunRidge also offers USDA certified organic &amp; natural granolas &amp; mueslis, nuts &amp; nut mixes, grains &amp; pastas, herbs &amp; spices.</string>
+		<key>Latitude</key>
+		<string>36.8963</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-121.7470</string>
+		<key>Name</key>
+		<string>SunRidge Farms</string>
+		<key>Phone</key>
+		<string>831-786-7000</string>
+		<key>Website</key>
+		<string>www.sunridgefarms.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>Lumber &amp; Building Materials</string>
+		<key>Latitude</key>
+		<string>37.0903</string>
+		<key>Location</key>
+		<string>North Coast</string>
+		<key>Longitude</key>
+		<string>-122.2733</string>
+		<key>Name</key>
+		<string>Big Creek Lumber Co.</string>
+		<key>Phone</key>
+		<string>(831) 457-5029</string>
+		<key>Website</key>
+		<string>www.big-creek.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>9</string>
+		<key>Categories</key>
+		<string></string>
+		<key>Description</key>
+		<string>SUP Shack Santa Cruz located in the Santa Cruz Harbor offers the best conditions for stand up paddling from smooth water to open ocean.</string>
+		<key>Latitude</key>
+		<string>36.9635</string>
+		<key>Location</key>
+		<string>Santa Cruz</string>
+		<key>Longitude</key>
+		<string>-122.0010</string>
+		<key>Name</key>
+		<string>SUP Shack Santa Cruz</string>
+		<key>Phone</key>
+		<string>831 464 7467</string>
+		<key>Website</key>
+		<string>www.supshacksantacruz.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>Specializing in Burgundian and Rhone style wines from select Coastal vineyards, Pelican Ranch is a family owned and operated winery in the heart of Capitola. </string>
+		<key>Latitude</key>
+		<string>36.9840</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-121.9515</string>
+		<key>Name</key>
+		<string>Pelican Ranch Winery</string>
+		<key>Phone</key>
+		<string>831-426-6911</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>Family owned and operated winery specializing in locally grown Pinot Noir and Chardonnay. We\&apos;re located in rustic Bonny Doon, CA just 3 miles off of Hwy 1. Tasting room open daily 11am-5pm.</string>
+		<key>Latitude</key>
+		<string>37.0420</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-122.1497</string>
+		<key>Name</key>
+		<string>Beauregard Vineyards</string>
+		<key>Phone</key>
+		<string>831 425-7777</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>Hunter Hill is a family owned Vineyard and winery. We farm 7 acres of vineyard in the Soquel hills and make wine. Our tasting room is open Sat-Sun 11-4. Vann and Christine Slatter are the owners.</string>
+		<key>Latitude</key>
+		<string>37.0221</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-121.9378</string>
+		<key>Name</key>
+		<string>Hunter Hill Vineyard and Winery</string>
+		<key>Phone</key>
+		<string>831-465-9294</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>Family owned and operated since 1998, Alfaro Family Vineyards &amp; Winery produces Estate grown and bottled Pinot Noir, Chardonnay, Merlot &amp; Syrah at their winery/tasting room in Corralitos. Open for tasting &amp; sales Saturdays 12 - 5. Please call.</string>
+		<key>Latitude</key>
+		<string>36.9929</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-121.8194</string>
+		<key>Name</key>
+		<string>Alfaro Family Vineyards &amp; Winery</string>
+		<key>Phone</key>
+		<string>(831) 728-5172</string>
+		<key>Website</key>
+		<string>alfarowine.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>The Roudon-Smith Winery is dedicated to the production of exceptional wines from selected vineyards of the Santa Cruz Mountains and other regions of California.</string>
+		<key>Latitude</key>
+		<string>36.9293</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-121.7915</string>
+		<key>Name</key>
+		<string>Roudon-Smith Winery</string>
+		<key>Phone</key>
+		<string>831-438-1244</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>Since 1975, we produce food-friendly, European-style wines, with a focus on locally grown Pinot Noir. Our sister brand, Quinta Cruz, features the fascinating varieties of Portugal &amp; Spain that are now grown in CA. Tasting noon to 5:30pm Wed - Sun.</string>
+		<key>Latitude</key>
+		<string>36.9591</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-122.0472</string>
+		<key>Name</key>
+		<string>Santa Cruz Mountain Vineyard</string>
+		<key>Phone</key>
+		<string>831-426-6209</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>Carefully handcrafted artisan ales that meld European tradition with California edginess with an emphasis on Belgian-inspired ales and aromatic IPAs which are oftenbarrel aged according to age-old practicesâ¨</string>
+		<key>Latitude</key>
+		<string>36.9831</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-121.9489</string>
+		<key>Name</key>
+		<string>Sante Adairius Rustic Alesâ¨</string>
+		<key>Phone</key>
+		<string>831-295-8190</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>Sante Arcangeli Family Wines are carefully handcrafted Burgundian varietals that have been gently nurtured from rare mountain-grown fruit to a new life as elegant and expressive California Pinot Noir and Chardonnay.</string>
+		<key>Latitude</key>
+		<string>36.9870</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-121.8119</string>
+		<key>Name</key>
+		<string>Sante Arcangeli Family Wines</string>
+		<key>Phone</key>
+		<string>831-406-1262</string>
+		<key>Website</key>
+		<string>http://www.santewinery.com</string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>&quot;Skov&quot;, meaning&quot;Forest&quot; in Danish, ties in the Hunt&apos;s background &amp; the long time wine making home nestled in the redwoods. Skov produces Chardonnay, Pinot Noir, Merlot &amp; Zinfandel.Open every Saturday Noon-4:30pm; picnic tables are available.â¨</string>
+		<key>Latitude</key>
+		<string>37.0727</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-122.0168</string>
+		<key>Name</key>
+		<string>Skov Winery</string>
+		<key>Phone</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>We are a CCOF-Certified Organic microbrewery based in Santa Cruz making uncommon beer for uncommon people</string>
+		<key>Latitude</key>
+		<string>36.9820</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-122.0313</string>
+		<key>Name</key>
+		<string>Uncommon Brewersâ¨</string>
+		<key>Phone</key>
+		<string>(831)621-6270</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Area</key>
+		<string>40</string>
+		<key>Categories</key>
+		<string>Winery</string>
+		<key>Description</key>
+		<string>Vinocruz houses a selection of over 150 wines made by more than 60 wineries, all within the Santa Cruz Mountains AVA. Wines by the Glass and Tasting flights featuring these distinct wines are available daily, and change weekly.</string>
+		<key>Latitude</key>
+		<string>36.9746</string>
+		<key>Location</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-122.0253</string>
+		<key>Name</key>
+		<string>Vinocruz</string>
+		<key>Phone</key>
+		<string>831 426-8466</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
